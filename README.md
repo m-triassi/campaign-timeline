@@ -29,7 +29,7 @@ This project was bootstrapped with Create React App and is designed to be a sing
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/m-triassi/campaign-timeline.git
+    git clone git@github.com:m-triassi/campaign-timeline.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
