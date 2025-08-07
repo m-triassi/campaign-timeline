@@ -641,10 +641,6 @@ function App() {
                         <h1 className="text-4xl md:text-5xl font-bold text-white">
                             D&D Campaign Tracker
                         </h1>
-                        <p className="text-gray-400 mt-2">
-                            Map your journey and watch the world change over
-                            time.
-                        </p>
                     </div>
                 </header>
 
